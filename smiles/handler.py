@@ -1,5 +1,5 @@
 def handle(req):
-    """handle request to the func
+    """handle request to the function
     Args:
         req (str): request body
     """
